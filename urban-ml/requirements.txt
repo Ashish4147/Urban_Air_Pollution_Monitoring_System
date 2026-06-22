@@ -1,0 +1,9 @@
+# ML Microservice Requirements
+# Python packages for ARIMA forecasting
+
+Flask==2.3.3
+Flask-CORS==4.0.0
+numpy==1.24.3
+pandas==2.0.3
+statsmodels==0.14.0
+scikit-learn==1.3.0
