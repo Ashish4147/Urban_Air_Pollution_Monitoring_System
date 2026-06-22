@@ -732,17 +732,3 @@ kill -9 <PID>
 ✅ Production-ready architecture
 
 ---
-
-## 📞 Support
-
-For issues or questions:
-1. Check error messages in browser console
-2. Check backend logs in terminal
-3. Verify all services are running
-4. Check environment configurations
-
----
-
-## 📄 License
-
-MIT License - Feel free to use and modify this project.
